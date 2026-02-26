@@ -1,5 +1,5 @@
 function kuldes() {
-  fetch("http://localhost:3000/display", {
+  fetch("http://10.0.16.13:3000/display", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
